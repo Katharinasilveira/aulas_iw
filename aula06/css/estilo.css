@@ -1,0 +1,18 @@
+p{
+    color: blueviolet;
+}
+
+.um{
+    color: blue;
+}
+
+.dois{
+    color: palevioletred;
+}
+#titulo{
+    color: brown;
+    border: 2px solid green;
+}
+body{
+    background-color: bisque;
+}

@@ -1,0 +1,16 @@
+header{
+    background-color: blue;
+}
+
+.banner{
+    width: 100%;
+}
+.container{
+    width: 80%;
+    background-color: brown;
+    margin: auto;
+}
+footer{
+    background-color: aquamarine;
+    width: 100%;
+}
